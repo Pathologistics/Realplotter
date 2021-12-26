@@ -1,7 +1,7 @@
 Package: Realplotter
 Type: Package
 Title: qPCR Analysis through Pffalf & Livak Method
-Version: 1.0
+Version: 1.1
 Author: Gustavo A. Quispe <gustavo.quispe.v@upch.pe>
 Description: for qPCR relative quantification (Pffafl & Livak Method)
 License: GPL-3

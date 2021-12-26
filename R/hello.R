@@ -102,7 +102,8 @@ qPCR_2 <- function(a,x,y,c,d){
   View(qPCR_Results_Livak)
 }
 
-Save <- function(){
-  write.csv(qPCR_Results_Pfaffl,"qPCR_Results_Pfaffl.csv")
-  write.csv(qPCR_Results_Livak,"qPCR_Results_Livak.csv")
+Save1 <- function(){write.csv(qPCR_Results_Pfaffl,"qPCR_Results_Pfaffl.csv",row.names = FALSE)
+}
+
+Save2 <- function(){write.csv(qPCR_Results_Livak,"qPCR_Results_Livak.csv",row.names = FALSE)
 }
