@@ -1,0 +1,26 @@
+{
+    "id": "F2EDFAC8",
+    "path": "C:/Users/Gustavo/Desktop/Realplotter/R/hello.R",
+    "project_path": "R/hello.R",
+    "type": "r_source",
+    "hash": "3492626307",
+    "contents": "",
+    "dirty": false,
+    "created": 1640612032434.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,0",
+        "scrollLine": "0"
+    },
+    "folds": "3|23|8|48|\n10|24|15|78|\n17|32|63|27|\n65|30|108|0|\n110|21|111|87|\n113|21|114|87|\n116|20|117|0|\n119|20|120|0|\n",
+    "lastKnownWriteTime": 1640613785,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1640613803893,
+    "read_only": false,
+    "read_only_alternatives": []
+}
